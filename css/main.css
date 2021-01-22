@@ -585,11 +585,8 @@ ul.list-default li {
 	 Testimonials
 -------------------------------------------------------------------------------*/
 .testimonials {
-	
-	padding: 30px 30px 20px;
-	margin-top: 30px;
 	border: 1px solid #fff;
-	background-color: #fff;
+	background-color: #000;
 	position: relative;
 	text-align: center;
 }
