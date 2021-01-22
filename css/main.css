@@ -393,7 +393,7 @@ padding-bottom: 30px;
 /*	CONTENT BLOCK 3-10
 /*----------------------------------------------------*/
 .flex {
-	border-radius: 20px, 20px, 20px, 20px; 
+	border: 1px solid green;
 	border-width: 20px;
   	display: flex;
   	align-items: center;
@@ -407,7 +407,6 @@ padding-bottom: 30px;
 	}
 
 	.content-3-10 {
-		border-radius: 20px, 20px, 20px, 20px; 
 		border-width: 20px;
   		width: 180%;
 	}
