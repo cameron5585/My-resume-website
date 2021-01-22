@@ -624,6 +624,7 @@ ul.list-default li {
 -------------------------------------------------------------------------------*/
 .conForm {
 	text-align: center;
+	border: 1px solid #fff;
 }
 .conForm h5 {
 	font-size: 30px;
