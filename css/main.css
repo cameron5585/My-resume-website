@@ -145,7 +145,7 @@ ul li {
 	color: #56E7DB;
 }
 .navigation.open {
-	opacity: 0.9;
+	opacity: 0.2;
 	visibility: visible;
 	-moz-transition: opacity 0.5s;
 	-o-transition: opacity 0.5s;
