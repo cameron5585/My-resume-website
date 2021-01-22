@@ -585,10 +585,7 @@ ul.list-default li {
 	 Testimonials
 -------------------------------------------------------------------------------*/
 .testimonials {
-	13
-	0.b0
-	.ackground-color: #211A170
-	;
+	background-color: #211A170;
 	position: relative;
 	text-align: center;
 }
