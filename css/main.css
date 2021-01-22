@@ -337,15 +337,15 @@ ul li {
 	$intro
 ========================================================================== */
 .intro {
-	background-color: #fff; 
-    color: #fff; 
+	background-color: #000; 
+    color: #000; 
 }
 .intro h3 {
-	color: #000;
+	color: #fff;
 	margin-top: 0;
 }
 .intro p { 
-	color: #000;
+	color: #fff;
 	font-weight: 400;
 
 }
