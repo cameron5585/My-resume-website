@@ -405,6 +405,7 @@ padding-bottom: 30px;
 
 	.editContent p {
 		align-content: center;
+		border: 20px #fff;
 	}
 
 	.content-3-10 {
